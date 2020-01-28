@@ -1,0 +1,20 @@
+{
+  "name": "vue-components-analyser",
+  "version": "1.0.0",
+  "description": "vue component performance detection plugin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeyan1996/vue-components-analyser.git"
+  },
+  "keywords": [
+    "vue",
+    "performance"
+  ],
+  "author": "yeyan1996",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yeyan1996/vue-components-analyser/issues"
+  },
+  "homepage": "https://github.com/yeyan1996/vue-components-analyser#readme",
+}
